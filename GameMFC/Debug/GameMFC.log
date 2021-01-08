@@ -1,0 +1,5 @@
+﻿  ChildView.cpp
+d:\辣鸡项目\gamemfc\gamemfc\childview.cpp(270): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\辣鸡项目\gamemfc\gamemfc\childview.cpp(273): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+  GameMFC.vcxproj -> D:\辣鸡项目\GameMFC\Debug\GameMFC.exe
+  GameMFC.vcxproj -> D:\辣鸡项目\GameMFC\Debug\GameMFC.pdb (Partial PDB)
